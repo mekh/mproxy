@@ -1,0 +1,8 @@
+3.0.2
+- suport (optional) extra arguments to vlc
+
+2.1.1
+- update to mproxy-583621d
+
+2.1.0
+- initial build

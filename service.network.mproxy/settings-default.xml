@@ -1,0 +1,5 @@
+<settings>
+    <setting id="UDPXY_PORT" value="8082" />
+    <setting id="UDPXY_MAXCLIENTS" value="12" />
+    <setting id="UDPXY_IFACE" value="lo" />
+</settings>
