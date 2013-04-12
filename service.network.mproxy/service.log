@@ -3862,3 +3862,408 @@ GROUP is 224.0.0.251
 08:34:48.659 Got mebership report from 192.168.1.140 to 224.0.0.251
 08:36:52.803 Got mebership report from 192.168.1.140 to 224.0.0.251
 08:38:56.323 Got mebership report from 192.168.1.140 to 224.0.0.251
+11:27:39.695 Got mebership report from 192.168.1.160 to 224.0.0.251
+11:28:26.761 vif #0, phyint lo
+11:28:33.946 vif #0, phyint lo
+11:28:47.153 vif #0, phyint lo
+11:29:41.894 Got mebership report from 192.168.1.140 to 224.0.0.251
+11:31:46.658 Got mebership report from 192.168.1.160 to 224.0.0.251
+11:33:50.000 vif #0, phyint lo
+11:33:51.598 Got mebership report from 192.168.1.140 to 224.0.0.251
+11:34:05.479 vif #0, phyint lo
+11:35:23.783 vif #0, phyint lo
+Test
+11:36:24.073 vif #0, phyint lo
+Test
+11:38:12.972 vif #0, phyint lo
+Test STOP
+Test
+Test SOURCE
+Test
+15:01:48.356 vif #0, phyint lo
+15:01:55.846 vif #0, phyint lo
+15:02:15.363 Got mebership report from 192.168.1.160 to 224.0.0.251
+15:02:23.036 vif #0, phyint lo
+Test SOURCE
+Test STOP
+Test START before source
+Test START before source
+Test START before source
+Test SOURCE
+Test
+07:27:09.008 vif #0, phyint lo
+07:27:33.578 Got mebership report from 192.168.1.140 to 224.0.0.38
+07:27:35.442 Got mebership report from 192.168.1.140 to 224.0.0.38
+07:27:37.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.38
+07:27:39.001 Got mebership report from 192.168.1.140 to 224.0.0.38
+07:27:43.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.38
+07:27:45.001 Got mebership report from 192.168.1.140 to 224.0.0.38
+07:27:49.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.38
+07:27:51.001 Got mebership report from 192.168.1.140 to 224.0.0.38
+07:27:55.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.38
+07:27:56.155 Got mebership report from 192.168.1.140 to 224.0.0.33
+07:28:00.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.33
+07:28:01.460 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:28:05.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+07:28:07.001 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:28:09.418 Got mebership report from 192.168.1.140 to 224.0.0.251
+07:28:09.634 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:28:11.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+07:28:13.001 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:28:15.098 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:28:17.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+07:28:19.001 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:28:23.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+07:28:25.001 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:28:27.677 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+07:29:04.047 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:29:05.654 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:29:08.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+07:29:10.001 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:29:10.046 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:29:14.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+07:29:16.001 Got mebership report from 192.168.1.140 to 224.0.0.5
+07:29:16.474 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+07:29:24.078 Got mebership report from 192.168.1.140 to 224.0.0.5
+Test SOURCE
+GROUP is 224.0.0.5
+URL of channel is http://192.168.1.1:81/udp/225.225.225.87:1234
+ADDON_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy
+ADDON_CONFIG_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy/config
+07:29:25.954 Got mebership report from 192.168.1.140 to 224.0.0.5
+Test SOURCE
+GROUP is 224.0.0.5
+URL of channel is http://192.168.1.1:81/udp/225.225.225.87:1234
+ADDON_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy
+ADDON_CONFIG_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy/config
+07:29:27.401 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+Test SOURCE
+GROUP is 224.0.0.5
+URL of channel is http://192.168.1.1:81/udp/225.225.225.87:1234
+ADDON_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy
+ADDON_CONFIG_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy/config
+07:29:28.867 Got mebership report from 192.168.1.140 to 224.0.0.38
+Test SOURCE
+GROUP is 224.0.0.38
+URL of channel is http://192.168.1.1:81/udp/225.225.225.88:1234
+ADDON_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy
+ADDON_CONFIG_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy/config
+07:29:30.460 Got mebership report from 192.168.1.140 to 224.0.0.38
+Test SOURCE
+GROUP is 224.0.0.38
+URL of channel is http://192.168.1.1:81/udp/225.225.225.88:1234
+ADDON_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy
+ADDON_CONFIG_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy/config
+07:29:40.521 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.38
+Test SOURCE
+GROUP is 224.0.0.38
+URL of channel is http://192.168.1.1:81/udp/225.225.225.88:1234
+ADDON_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy
+ADDON_CONFIG_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy/config
+07:30:12.634 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:32:18.154 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:34:20.778 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:36:25.642 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:38:24.671 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:40:30.052 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:42:38.914 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:44:48.810 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:46:50.714 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:48:51.442 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:50:56.118 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:53:07.290 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:55:05.632 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:57:10.704 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+07:59:18.754 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:01:29.802 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:03:31.386 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:05:32.498 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:07:36.566 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:09:44.282 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:11:50.362 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:13:50.722 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:16:00.426 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:18:06.538 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:20:11.706 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:22:13.658 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:24:21.722 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:26:29.482 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:28:32.954 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:30:37.994 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:32:39.898 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:34:47.770 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:36:49.706 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:38:58.794 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:41:03.066 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+08:43:01.526 Got mebership report from 192.168.1.140 to 224.0.0.251
+Test SOURCE
+Test SOURCE
+Test STOP
+Test START before source
+Test START before source
+Test START before source
+Test START after source
+Test START before source
+Test START after source
+Test START before source
+Test START after source
+xbmc
+Test START before source
+Test START after source
+xbmc
+
+Test START before source
+Test START after source
+xbmc
+
+Test START before source
+Test START before source
+Test START before source
+Test START before source
+Test START before source
+Test START before source
+Test START before source
+Test START after source
+xbmc
+
+Test START before source
+Test START after source
+xbmc
+
+Test START before source
+Test START after source
+xbmc
+
+Test START before source
+Test START after source
+xbmc
+
+Test START before source
+Test START after source
+xbmc
+
+Test START before source
+Test START after source
+xbmc
+/home/xbmc/.xbmc/addons/service.network.mproxy
+09:15:41.357 vif #0, phyint lo
+Test STOP
+Test START before source
+Test START after source
+xbmc
+
+Test START before source
+The old USER=xbmc
+Test START after source
+xbmc
+
+Test START before source
+The old USER=xbmc
+Test START after source
+xbmc
+
+Test START before source
+The old USER=xbmc
+Test START after source
+xbmc
+
+Test START before source
+The old USER=xbmc
+Test START after source
+xbmc
+/home/xbmc/.xbmc/addons/service.network.mproxy
+09:19:23.395 vif #0, phyint lo
+Test STOP
+Test START before source
+The old USER=xbmc
+Test START after source
+xbmc
+
+Test START before source
+The old USER=xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START before source
+The old USER = xbmc
+Test START before source
+The old USER = xbmc
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is 
+LOCKDIR is 
+Test START before source
+The old USER = xbmc
+Test START after source
+xbmc
+ADDON_DIR is /home/xbmc/.xbmc/addons/service.network.mproxy
+LOCKDIR is /tmp/
+10:11:27.221 vif #0, phyint lo
+10:14:30.352 vif #0, phyint lo
+STOP user is xbmc
+10:14:32.375 vif #0, phyint lo
+10:14:43.690 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:15:22.104 vif #0, phyint lo
+10:15:33.229 vif #0, phyint lo
+10:15:50.876 vif #0, phyint lo
+10:16:48.140 vif #0, phyint lo
+Test STOP
+10:18:51.320 vif #0, phyint lo
+The path is /home/xbmc/.xbmc/addons/service.network.mproxy/bin/mproxy.stop
+10:20:09.610 vif #0, phyint lo
+The path is /home/xbmc/.xbmc/addons/service.network.mproxy/bin/mproxy.stop
+PWD is /home/xbmc
+10:20:32.976 vif #0, phyint lo
+The path is ./mproxy.stop
+PWD is /home/xbmc/.xbmc/addons/service.network.mproxy/bin
+10:22:57.828 vif #0, phyint lo
+10:23:05.619 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:23:07.994 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:23:09.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+10:23:11.001 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:23:12.306 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:23:12.618 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:23:15.000 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+10:23:17.001 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:23:18.142 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+10:23:54.236 Got mebership report from 192.168.1.140 to 224.0.0.5
+EXT PWD is /home/xbmc
+10:23:56.276 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+EXT PWD is /home/xbmc
+10:24:34.921 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:24:43.258 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:24:43.567 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+10:25:05.182 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:26:26.127 vif #0, phyint lo
+10:26:49.458 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:26:52.510 Got leave message from 192.168.1.140 to 224.0.0.2 group 224.0.0.5
+10:27:17.754 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:29:23.274 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:31:26.906 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:32:31.008 vif #0, phyint lo
+/home/xbmc/.xbmc/addons/service.network.mproxy/bin
+10:33:04.826 vif #0, phyint lo
+10:33:30.746 Got mebership report from 192.168.1.140 to 224.0.0.251
+/home/xbmc/.xbmc/addons/service.network.mproxy/bin
+/home/xbmc/.xbmc/addons/service.network.mproxy/bin
+10:34:39.074 vif #0, phyint lo
+10:37:03.408 vif #0, phyint lo
+10:37:14.620 vif #0, phyint lo
+10:37:22.530 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:37:30.698 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:37:36.962 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:37:38.898 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:38:01.642 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:38:14.933 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:38:40.938 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:38:57.922 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:39:22.154 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:39:35.824 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:39:49.642 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:39:57.146 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:40:21.498 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:40:42.506 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:41:00.938 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:41:20.650 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:41:43.338 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:41:45.374 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:42:04.458 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:42:18.722 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:42:41.802 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:42:55.145 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:43:17.114 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:43:36.138 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:43:56.634 Got mebership report from 192.168.1.140 to 224.0.0.251
+10:44:03.082 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:44:22.250 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:44:36.534 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:45:03.978 Got mebership report from 192.168.1.140 to 224.0.0.5
+10:45:19.402 Got mebership report from 192.168.1.140 to 224.0.0.5

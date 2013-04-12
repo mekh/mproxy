@@ -20,8 +20,7 @@
 #  http://www.gnu.org/copyleft/gpl.html
 ################################################################################
 
-. /etc/profile
-. ../config/mproxy.conf
+. $(dirname $0)/../config/mproxy.conf
 
 if [ ! "$(pidof mproxy.bin)" ];then
   if [ -f "$LOCKDIR/$LOCKFILE" ] ; then

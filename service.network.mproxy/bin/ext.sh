@@ -1,12 +1,10 @@
 #!/bin/sh
-. ../config/mproxy.conf
+
+. $(dirname $0)/../config/mproxy.conf
 
 GROUP="$1"
 URL=$(grep "^$GROUP " "$ADDON_CONFIG_DIR/ext.conf" | awk '{print $2}')
-#echo "GROUP is $GROUP" >> $HOME/.xbmc/addons/service.network.mproxy/service.log
-#echo "URL of channel is $URL" >> $HOME/.xbmc/addons/service.network.mproxy/service.log
-#echo "ADDON_DIR is $ADDON_DIR" >> $HOME/.xbmc/addons/service.network.mproxy/service.log
-#echo "ADDON_CONFIG_DIR is $ADDON_CONFIG_DIR" >> $HOME/.xbmc/addons/service.network.mproxy/service.log
+
 if [ ! "$URL" == "" ] ; then
   case "$2" in
     start)
